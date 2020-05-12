@@ -1,5 +1,4 @@
 Esta es mi historia 
 Mi nombre es Carlos tengo 24 años
-Soy de Ecuador y estudio desarrollo de software
-
-Ojetivo ser forn-ted al terminar el año
+Soy de Ecuador. 
+Estoy en proceso de ser fron-ted
