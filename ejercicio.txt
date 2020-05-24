@@ -1,4 +1,9 @@
 Esta es mi historia 
-Mi nombre es Carlos tengo 24 años
-Soy de Ecuador. 
+
+Mi nombre es Carlos Gonzalez tengo 24 años
+Soy de Ecuador.
+
+Carlos Montoya tiene 50 años y nació 
+en Colombia
+
 Estoy en proceso de ser fron-ted
